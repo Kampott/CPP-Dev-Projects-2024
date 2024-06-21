@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Kampot\OneDrive\Рабочий стол\Fac\2 Курс\4 сем\C++\лаба2\LAB2\Point.h(56,42): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Kampot\OneDrive\Рабочий стол\Fac\2 Курс\4 сем\C++\лаба2\LAB2\Point.h(57,61): warning C4267: 'argument': conversion from 'size_t' to 'sf::Uint8', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  LAB2.vcxproj -> C:\Users\Kampot\OneDrive\Рабочий стол\Fac\2 Курс\4 сем\C++\лаба2\LAB2\x64\Debug\LAB2.exe
